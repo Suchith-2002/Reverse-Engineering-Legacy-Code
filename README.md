@@ -2,9 +2,9 @@
 
 ## Authors
 
-- ***Uppalapati Suchith Chowdary***
-- ***Gowreesh Sai Mididoddi***
-- ***Jayanth Prathipati***
+- [Uppalapati Suchith Chowdary](https://github.com/Suchith-2002 "Github - Suchith-2002")
+- [Gowreesh Sai Mididoddi](https://github.com/MididoddiGowreeshsai "GitHub - MididoddiGowreeshsai")
+- [Jayanth Prathipati](https://github.com/prathipatijayanth "GitHub - prathipatijayanth")
 
 ## Project Overview
 
